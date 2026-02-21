@@ -1,7 +1,7 @@
 # Data-Challenge-CDC
 ## 📌 Overview
 
-Ce projet a été réalisé dans le cadre d’un data challenge portant sur l’intégration des risques climatiques physiques dans l’analyse d’un portefeuille de crédit.
+Ce projet a été réalisé dans le cadre d’un data challenge organisé par la Caisse de Dépôt et Consignations (CDC) portant sur l’intégration des risques climatiques physiques dans l’analyse d’un portefeuille de crédit.
 
 L’objectif est de transformer des données climatiques publiques en scores d’exposition exploitables financièrement, puis de mesurer l’exposition effective d’un portefeuille selon différents horizons temporels.
 
